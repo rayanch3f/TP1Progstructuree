@@ -1,0 +1,9 @@
+﻿  Calculatrice.cpp
+C:\rayanch3f\TP1Progstructuree\ProjetTP1\ProjetTP1\Calculatrice.cpp(28,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\rayanch3f\TP1Progstructuree\ProjetTP1\ProjetTP1\Calculatrice.cpp(40,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\rayanch3f\TP1Progstructuree\ProjetTP1\ProjetTP1\Calculatrice.cpp(60,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  LectureEtAffichage.cpp
+C:\rayanch3f\TP1Progstructuree\ProjetTP1\ProjetTP1\LectureEtAffichage.cpp(179,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  TP1.cpp
+  Génération de code en cours...
+  ProjetTP1.vcxproj -> C:\rayanch3f\TP1Progstructuree\ProjetTP1\x64\Debug\ProjetTP1.exe

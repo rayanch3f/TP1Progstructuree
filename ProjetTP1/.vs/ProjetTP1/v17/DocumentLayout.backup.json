@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\LectureEtAffichage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\LectureEtAffichage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\UtilitairesVecteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\UtilitairesVecteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\TP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\TP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\Calculatrice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\Calculatrice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\Calculatrice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\Calculatrice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\LectureEtAffichage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\LectureEtAffichage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\UtilitairesVecteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{703108B6-800A-4B62-B3F3-AEF6B234572B}|ProjetTP1\\ProjetTP1.vcxproj|solutionrelative:ProjetTP1\\UtilitairesVecteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtilitairesVecteur.h",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\UtilitairesVecteur.h",
+              "RelativeDocumentMoniker": "ProjetTP1\\UtilitairesVecteur.h",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\UtilitairesVecteur.h",
+              "RelativeToolTip": "ProjetTP1\\UtilitairesVecteur.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T00:23:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculatrice.h",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\Calculatrice.h",
+              "RelativeDocumentMoniker": "ProjetTP1\\Calculatrice.h",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\Calculatrice.h",
+              "RelativeToolTip": "ProjetTP1\\Calculatrice.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T23:20:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LectureEtAffichage.h",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\LectureEtAffichage.h",
+              "RelativeDocumentMoniker": "ProjetTP1\\LectureEtAffichage.h",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\LectureEtAffichage.h",
+              "RelativeToolTip": "ProjetTP1\\LectureEtAffichage.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T23:19:33.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LectureEtAffichage.cpp",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\LectureEtAffichage.cpp",
+              "RelativeDocumentMoniker": "ProjetTP1\\LectureEtAffichage.cpp",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\LectureEtAffichage.cpp",
+              "RelativeToolTip": "ProjetTP1\\LectureEtAffichage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T23:19:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculatrice.cpp",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\Calculatrice.cpp",
+              "RelativeDocumentMoniker": "ProjetTP1\\Calculatrice.cpp",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\Calculatrice.cpp",
+              "RelativeToolTip": "ProjetTP1\\Calculatrice.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T23:18:58.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TP1.cpp",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\TP1.cpp",
+              "RelativeDocumentMoniker": "ProjetTP1\\TP1.cpp",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\TP1.cpp",
+              "RelativeToolTip": "ProjetTP1\\TP1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T23:18:43.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilitairesVecteur.cpp",
+              "DocumentMoniker": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\UtilitairesVecteur.cpp",
+              "RelativeDocumentMoniker": "ProjetTP1\\UtilitairesVecteur.cpp",
+              "ToolTip": "C:\\rayanch3f\\TP1Progstructuree\\ProjetTP1\\ProjetTP1\\UtilitairesVecteur.cpp",
+              "RelativeToolTip": "ProjetTP1\\UtilitairesVecteur.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T23:18:40.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
